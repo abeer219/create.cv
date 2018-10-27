@@ -1,0 +1,21 @@
+.side{
+    background-color: #585858;
+    color: #fff;
+    
+}
+.side li{
+    color: #fff;
+    text-align:center;
+    font-family:inherit;
+}
+
+.side ul .uk-panal uk-panal-box uk-panal-box-secondary ul li a:hover{
+    background-color: #fff;
+    color:#000;
+}
+
+.uk-navbar span{
+    padding-top: 30px;
+    font-size: 1.3em;
+}
+
